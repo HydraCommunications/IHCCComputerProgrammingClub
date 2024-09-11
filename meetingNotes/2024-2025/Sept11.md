@@ -25,7 +25,9 @@ Jarrett will be leading this sections
 This will be talked about in feather details in future meetings. Right now we just need volunteer leaders to meet up on their own time to set up how we want to conduct learning activities and race evens. 
 
 - Have students volunteer.
-    - Make them exchange forms of communication. 
+    - Make them exchange forms of communication.
+ 
+### Club Website Development and stuff
 
 
 ## Minutes 
